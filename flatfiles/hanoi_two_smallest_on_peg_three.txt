@@ -32,6 +32,8 @@ fact: (inst peg1 peg)
 fact: (inst peg2 peg)
 fact: (inst peg3 peg)
 
+fact: (inst base1 base)
+
 fact: (on disk1 peg3)
 fact: (on disk2 peg3)
 fact: (on disk3 peg1)
